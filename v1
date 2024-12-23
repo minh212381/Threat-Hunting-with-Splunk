@@ -1,0 +1,4 @@
+Purpose: To practice threat hunting, using the Boss of the SOC (BOTS) Dataset.
+Connecting to Splunk Server https://splunk.samsclass.info
+Log in as student1 with a password of student1
+The Splunk main page opens, as shown below
